@@ -78,5 +78,3 @@ I'm constantly exploring new tools and techniques to enhance my data analytics s
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Talha-Fasih-Khan&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
