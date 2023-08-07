@@ -1,5 +1,5 @@
 
-### <div align="center">👋 Hello, I'm [Talha Khan], a data analyst passionate about extracting insights from raw data to drive informed decision-making. With a keen eye for patterns and trends, I enjoy turning complex datasets into actionable information😊</div>  
+### <div align="center">👋 Hi! I'm Talha Khan, a data analyst passionate about extracting insights from raw data to drive informed decision-making. With a keen eye for patterns and trends, I enjoy turning complex datasets into actionable information😊</div>  
   
 📊 Data Analyst | Python Enthusiast | Problem Solver 🎯.
 
