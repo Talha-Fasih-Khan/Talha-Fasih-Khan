@@ -12,9 +12,9 @@
 - Google Sheets: Harnessing its power for data organization and analysis.
 
 🔨 Projects:
-- [Project 1 Name]: Brief description and link (if public).
-- [Project 2 Name]: Brief description and link (if public).
-- [Project 3 Name]: Brief description and link (if public).
+- [Amazon Echo Sentiment Analysis using NLP](https://github.com/Talha-Fasih-Khan/Amazon-Alexa-Review-Analysis-with-NLP).
+- [Kyphosis Classification using Machine Learning](https://github.com/Talha-Fasih-Khan/Machine-Learning-for-Kyphosis-Disease-Classification).
+- [Real Estate Price Prediction using Deep Learning](https://github.com/Talha-Fasih-Khan/Deep-Learning-for-Real-Estate-Price-Prediction).
 
 🌱 Always Learning:
 I'm constantly exploring new tools and techniques to enhance my data analytics skills. I believe in the power of continuous learning and open-source collaboration.
