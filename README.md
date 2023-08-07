@@ -1,6 +1,23 @@
 
-### <div align="center">I'm Talha, a recently certified Data Analyst 💽 looking for a job 😊</div>  
+### <div align="center">👋 Hello, I'm [Talha Khan], a data analyst passionate about extracting insights from raw data to drive informed decision-making. With a keen eye for patterns and trends, I enjoy turning complex datasets into actionable information😊</div>  
   
+📊 Data Analyst | Python Enthusiast | Problem Solver 🎯.
+
+🔍 Skills:
+- Data Wrangling: Cleaning, transforming, and preparing data for analysis.
+- Exploratory Data Analysis (EDA): Uncovering valuable insights through visualizations and statistical methods.
+- Data Visualization: Creating compelling charts and graphs to communicate findings effectively.
+- Machine Learning: Applying algorithms to predict outcomes and make data-driven predictions.
+- Python: My go-to tool for data manipulation and analysis.
+- Google Sheets: Harnessing its power for data organization and analysis.
+
+🔨 Projects:
+- [Project 1 Name]: Brief description and link (if public).
+- [Project 2 Name]: Brief description and link (if public).
+- [Project 3 Name]: Brief description and link (if public).
+
+🌱 Always Learning:
+I'm constantly exploring new tools and techniques to enhance my data analytics skills. I believe in the power of continuous learning and open-source collaboration.
 
 - 🔭 I’m currently working on various personal projects to keep my skills sharp  
   
