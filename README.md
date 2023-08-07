@@ -1,9 +1,5 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
 
-### <div align="center">I'm Talha, a recently certified Data Scientist 💽 looking for a job 😊</div>  
+### <div align="center">I'm Talha, a recently certified Data Analyst 💽 looking for a job 😊</div>  
   
 
 - 🔭 I’m currently working on various personal projects to keep my skills sharp  
